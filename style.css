@@ -43,7 +43,7 @@ body{
 /*intro-area start*/
 #first-half h1{
     font-size:50px;
-    font-weight:900;
+    font-weight:800;
 }
 .heading-color{
     color: #575757;
@@ -151,6 +151,23 @@ a{
     border:2px solid gray;
 }
 /*subscribe-area close*/
+
+/*counter-area start*/
+.counter-item{
+    width:30%;
+    margin-left:5%;
+    margin-bottom:5%;
+    margin-right:5%;
+    text-align:center;
+}
+.counter-item h1{
+    font-weight:900;
+    font-size:40px;
+}
+.counter-area{
+    margin-bottom:40px;
+}
+/*counter-area close*/
 
 /*footer-area start*/
 footer{
