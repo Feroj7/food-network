@@ -17,7 +17,7 @@ body{
 }
 /* header start*/
 .header{
-    margin-top:40px;
+    margin-top:30px;
     margin-left:5%;
 }
 .header-item1{
@@ -30,6 +30,7 @@ body{
 }
 .header-item3{
     width:15%;
+    padding-top:30px;
 }
 .header ul li{
     list-style:none;
